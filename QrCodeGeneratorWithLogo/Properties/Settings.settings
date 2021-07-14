@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsFile CurrentProfile="(Default)" GeneratedClassNamespace="ArdeshirV.Applications.QrCodeGeneratorWithLogo.Properties" GeneratedClassName="Settings" xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="FormMainHeight" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">420</Value>
+    </Setting>
+    <Setting Name="FormMainLocation" Type="System.Drawing.Point" Scope="User" Roaming="false">
+      <Value Profile="(Default)">0, 0</Value>
+    </Setting>
+    <Setting Name="FormMainWidth" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">420</Value>
+    </Setting>
+    <Setting Name="QRCustomLogoPath" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="QRDefaultLogo" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)">Nano</Value>
+    </Setting>
+    <Setting Name="QRDefaultLogoEnable" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="QRLogoEnable" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="QRShadowColor" Type="System.Drawing.Color" Scope="User" Roaming="false">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="QRShadowEnable" Type="System.Boolean" Scope="User" Roaming="false">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="QRShadowPercent" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="QRShadowShape" Type="System.Int32" Scope="User" Roaming="false">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="QRText" Type="System.String" Scope="User" Roaming="false">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

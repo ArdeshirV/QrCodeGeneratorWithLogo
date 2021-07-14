@@ -1,0 +1,11 @@
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\bin\Debug\QrCodeGeneratorWithLogo.exe.config
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\bin\Debug\QrCodeGeneratorWithLogo.exe
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\bin\Debug\QrCodeGeneratorWithLogo.pdb
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\bin\Debug\ArdeshirV.Forms.dll
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\bin\Debug\ArdeshirV.Tools.QrCode.dll
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\obj\Debug\QrCodeGeneratorWithLogo.csprojResolveAssemblyReference.cache
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\obj\Debug\ArdeshirV.Applications.QrCodeGeneratorWithLogo.FormMain.resources
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\obj\Debug\ArdeshirV.Applications.QrCodeGeneratorWithLogo.Properties.Resources.resources
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\obj\Debug\QrCodeGeneratorWithLogo.csproj.GenerateResource.Cache
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\obj\Debug\QrCodeGeneratorWithLogo.exe
+D:\Documents\Projects\0Projects From Windows\C#\QrCodeGeneratorWithLogo\QrCodeGeneratorWithLogo\obj\Debug\QrCodeGeneratorWithLogo.pdb

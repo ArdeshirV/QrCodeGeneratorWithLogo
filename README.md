@@ -12,7 +12,7 @@ We truly appreciate and thank you for any donation you can give to our project
 
 
 
-<a href="Bitcoin:1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi">Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi</a>
+Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi
 
 ![Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Bitcoin%201GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi.png)
 

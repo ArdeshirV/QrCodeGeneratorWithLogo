@@ -16,7 +16,7 @@ Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi
 
 
 
-Ethereum|USDT|TUSD: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E
+Ethereum: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E
 
 ![Ethereum|USDT|TUSD: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Ethereum%200x6E6465394D14975956cd1BD37ab4E35F2C60300E.png)
 
@@ -28,7 +28,7 @@ Litecoin: LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n
 
 
 
-Tron|USDT-Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr
+Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr
 
 ![Tron|USDT-Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Tron%20TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr.png)
 

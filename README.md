@@ -13,7 +13,7 @@ QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predef
             <img src="https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Bitcoin%201GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi.png">
           </figure>          
           <figure>
-            <figcaption>Ethereum|USDT|TUSD: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E</figcaption>
+            <figcaption>Ethereum: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E</figcaption>
             <img src="https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Ethereum%200x6E6465394D14975956cd1BD37ab4E35F2C60300E.png">
           </figure>
           <figure>
@@ -21,7 +21,7 @@ QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predef
             <img src="https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Litecoin%20LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n.png">
           </figure>
           <figure>
-            <figcaption>Tron|USDT-Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr</figcaption>
+            <figcaption>Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr</figcaption>
             <img src="https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Tron%20TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr.png">
           </figure>
           <figure>

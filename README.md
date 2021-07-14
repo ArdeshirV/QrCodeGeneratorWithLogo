@@ -29,7 +29,6 @@ Litecoin: LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n
 ![Litecoin: LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Litecoin%20LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n.png)
 
 
-
 Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr
 
 ![Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Tron%20TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr.png)

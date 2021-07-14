@@ -1,7 +1,7 @@
 # QrCodeGeneratorWithLogo
-QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predefined or custom logo in your QR code
+QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predefined or custom logo in your QR code and then save it as an image with high quality.
 <br/>
-<img width="80%" src="https://raw.githubusercontent.com/ArdeshirV/QrCodeGeneratorWithLogo/main/QrCodeGeneratorWithLogo/img/OuP.jpg" alt="QR Code Generator with Logo photo">
+<img width="60%" src="https://raw.githubusercontent.com/ArdeshirV/QrCodeGeneratorWithLogo/main/QrCodeGeneratorWithLogo/img/OuP.jpg" alt="QR Code Generator with Logo photo">
 <br/><br/>
     <main>
       <article>

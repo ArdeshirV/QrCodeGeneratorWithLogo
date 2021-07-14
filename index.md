@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+# QrCodeGeneratorWithLogo
+QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predefined or custom logo in your QR code and then save it as an image with high quality. You can use different shape of shadows and fading shadows with your logo. I hope you [download](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo/releases/tag/1.0.7865.21125) this windows desktop application, use it and enjoy it!
 
-You can use the [editor on GitHub](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Image](https://raw.githubusercontent.com/ArdeshirV/QrCodeGeneratorWithLogo/main/QrCodeGeneratorWithLogo/img/OuP.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Please Donate!
+We truly appreciate and thank you for any donation you can give to our project
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi
 
-- Bulleted
-- List
+![Bitcoin: 1GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Bitcoin%201GtjrxH6t8om8KwHAHKpcG5SAwVSsm4PEi.png)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+Ethereum|USDT|TUSD: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Ethereum|USDT|TUSD: 0x6E6465394D14975956cd1BD37ab4E35F2C60300E](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Ethereum%200x6E6465394D14975956cd1BD37ab4E35F2C60300E.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+Litecoin: LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Litecoin: LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Litecoin%20LdfYVr2Lgyuwp9K5Dk4aUsUbUQ2Rr5TA1n.png)
+
+
+
+Tron|USDT-Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr
+
+![Tron|USDT-Tron: TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Tron%20TCB6uBci8mw1P4e2xikSGbyHcFjNCFphXr.png)
+
+
+
+Stellar: GCMALSIYBJT74K5SKJFHMLBJRWFCO6EPIKQ4DO6C7ER4QAYIMTQSOOWI
+
+![Stellar: GCMALSIYBJT74K5SKJFHMLBJRWFCO6EPIKQ4DO6C7ER4QAYIMTQSOOWI](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Stellar%20GCMALSIYBJT74K5SKJFHMLBJRWFCO6EPIKQ4DO6C7ER4QAYIMTQSOOWI.png)
+
+
+
+Binance: bnb15qwa7kl46ledh5zqqynmy2tqw92mhzuwmap6sf
+
+![Binance: bnb15qwa7kl46ledh5zqqynmy2tqw92mhzuwmap6sf](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Binance%20bnb15qwa7kl46ledh5zqqynmy2tqw92mhzuwmap6sf.png)
+
+
+
+ZCash: t1ZnspKa3XFijtUAG6yKHsM3y6Bdb7C8HKA
+
+![ZCash: t1ZnspKa3XFijtUAG6yKHsM3y6Bdb7C8HKA](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/ZCash%20t1ZnspKa3XFijtUAG6yKHsM3y6Bdb7C8HKA.png)
+
+
+
+Nano: nano_3feuiaogay8zbsfye5ob1xp7obwb4syfpmc4pcb7ctckhh5z8671q4uzm9tc
+
+![Nano: nano_3feuiaogay8zbsfye5ob1xp7obwb4syfpmc4pcb7ctckhh5z8671q4uzm9tc](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Nano%20nano_3feuiaogay8zbsfye5ob1xp7obwb4syfpmc4pcb7ctckhh5z8671q4uzm9tc.png)
+
+
+
+Cardano: DdzFFzCqrhsoSn5qvqRTovUkr1XHWy9LvbvDHVYFoFFyxAJkf1bT4X4ySpm8DwFqDo3EWAn934W9WfipbSNiXTcRzEqLP1y5KyAfMByJ
+
+![Cardano: DdzFFzCqrhsoSn5qvqRTovUkr1XHWy9LvbvDHVYFoFFyxAJkf1bT4X4ySpm8DwFqDo3EWAn934W9WfipbSNiXTcRzEqLP1y5KyAfMByJ](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Cardano%20DdzFFzCqrhsoSn5qvqRTovUkr1XHWy9LvbvDHVYFoFFyxAJkf1bT4X4ySpm8DwFqDo3EWAn934W9WfipbSNiXTcRzEqLP1y5KyAfMByJ.png)
+
+
+
+Monero: 42dJ7dWZjHyV4bzL4uVcS6cYnNfSvtXQyJaZ83yj4xALMiZoEMuja5SdcMHZS3Ai1eDCF9D5RDzgrHoyngckf38yC2MM42y
+
+![Monero: 42dJ7dWZjHyV4bzL4uVcS6cYnNfSvtXQyJaZ83yj4xALMiZoEMuja5SdcMHZS3Ai1eDCF9D5RDzgrHoyngckf38yC2MM42y](https://raw.githubusercontent.com/ArdeshirV/resources/master/Wallets/Donation/QR/Monero%2042dJ7dWZjHyV4bzL4uVcS6cYnNfSvtXQyJaZ83yj4xALMiZoEMuja5SdcMHZS3Ai1eDCF9D5RDzgrHoyngckf38yC2MM42y.png)
+
+
+
+Copyright&copy; 2021 <a href="mailto:ArdeshirV@protonmail.com">ArdeshirV@protonmail.com</a>, Licensed under GPL<sup>v3+</sup>

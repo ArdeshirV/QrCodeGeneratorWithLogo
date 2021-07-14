@@ -5,6 +5,7 @@ QrCodeGeneratorWithLogo Provides a QR code generator that let you embed a predef
 
 
 
+
 ## Please Donate!
 We truly appreciate and thank you for any donation you can give to our project
 

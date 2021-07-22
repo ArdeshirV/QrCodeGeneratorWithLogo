@@ -50,26 +50,14 @@
         	this.ComboBoxDefault = new ArdeshirV.Forms.ComboBoxImage();
         	this.RadioButtonCustom = new System.Windows.Forms.RadioButton();
         	this.RadioButtonDefault = new System.Windows.Forms.RadioButton();
-        	this.LabelText = new System.Windows.Forms.Label();
         	this.TextBoxInput = new System.Windows.Forms.TextBox();
-        	this.ButtonPaste = new System.Windows.Forms.Button();
         	this.ButtonSave = new System.Windows.Forms.Button();
         	this.ButtonExit = new System.Windows.Forms.Button();
         	this.ButtonAbout = new System.Windows.Forms.Button();
-        	this.menuStrip = new System.Windows.Forms.MenuStrip();
-        	this.fileToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-        	this.saveAsImageToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-        	this.toolStripMenuItem1 = new System.Windows.Forms.ToolStripSeparator();
-        	this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-        	this.editToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-        	this.pasteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-        	this.helpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-        	this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
         	((System.ComponentModel.ISupportInitialize)(this.PictureBoxOutput)).BeginInit();
         	this.GroupBoxLogo.SuspendLayout();
         	this.GroupBoxBackground.SuspendLayout();
         	((System.ComponentModel.ISupportInitialize)(this.TrackBarShadowBlend)).BeginInit();
-        	this.menuStrip.SuspendLayout();
         	this.SuspendLayout();
         	// 
         	// PictureBoxOutput
@@ -305,39 +293,18 @@
         	this.RadioButtonDefault.UseVisualStyleBackColor = true;
         	this.RadioButtonDefault.CheckedChanged += new System.EventHandler(this.RadioButtonDefault_CheckedChanged);
         	// 
-        	// LabelText
-        	// 
-        	this.LabelText.AutoSize = true;
-        	this.LabelText.BackColor = System.Drawing.Color.Transparent;
-        	this.LabelText.Location = new System.Drawing.Point(12, 33);
-        	this.LabelText.Name = "LabelText";
-        	this.LabelText.Size = new System.Drawing.Size(31, 13);
-        	this.LabelText.TabIndex = 0;
-        	this.LabelText.Text = "&Text:";
-        	// 
         	// TextBoxInput
         	// 
         	this.TextBoxInput.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
 			| System.Windows.Forms.AnchorStyles.Left) 
 			| System.Windows.Forms.AnchorStyles.Right)));
-        	this.TextBoxInput.Location = new System.Drawing.Point(12, 49);
+        	this.TextBoxInput.Location = new System.Drawing.Point(12, 12);
         	this.TextBoxInput.Multiline = true;
         	this.TextBoxInput.Name = "TextBoxInput";
         	this.TextBoxInput.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-        	this.TextBoxInput.Size = new System.Drawing.Size(274, 63);
+        	this.TextBoxInput.Size = new System.Drawing.Size(274, 100);
         	this.TextBoxInput.TabIndex = 2;
         	this.TextBoxInput.TextChanged += new System.EventHandler(this.TextBoxInput_TextChanged);
-        	// 
-        	// ButtonPaste
-        	// 
-        	this.ButtonPaste.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-        	this.ButtonPaste.Location = new System.Drawing.Point(200, 27);
-        	this.ButtonPaste.Name = "ButtonPaste";
-        	this.ButtonPaste.Size = new System.Drawing.Size(87, 22);
-        	this.ButtonPaste.TabIndex = 1;
-        	this.ButtonPaste.Text = "&Paste";
-        	this.ButtonPaste.UseVisualStyleBackColor = true;
-        	this.ButtonPaste.Click += new System.EventHandler(this.ButtonPaste_Click);
         	// 
         	// ButtonSave
         	// 
@@ -376,84 +343,6 @@
         	this.ButtonAbout.UseVisualStyleBackColor = true;
         	this.ButtonAbout.Click += new System.EventHandler(this.ButtonAbout_Click);
         	// 
-        	// menuStrip
-        	// 
-        	this.menuStrip.BackColor = System.Drawing.Color.Transparent;
-        	this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-			this.fileToolStripMenuItem,
-			this.editToolStripMenuItem,
-			this.helpToolStripMenuItem});
-        	this.menuStrip.Location = new System.Drawing.Point(0, 0);
-        	this.menuStrip.Name = "menuStrip";
-        	this.menuStrip.Size = new System.Drawing.Size(404, 24);
-        	this.menuStrip.TabIndex = 8;
-        	this.menuStrip.Text = "menuStrip1";
-        	// 
-        	// fileToolStripMenuItem
-        	// 
-        	this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-			this.saveAsImageToolStripMenuItem,
-			this.toolStripMenuItem1,
-			this.exitToolStripMenuItem});
-        	this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
-        	this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
-        	this.fileToolStripMenuItem.Text = "&File";
-        	// 
-        	// saveAsImageToolStripMenuItem
-        	// 
-        	this.saveAsImageToolStripMenuItem.Image = global::ArdeshirV.Applications.QrCodeGeneratorWithLogo.Properties.Resources.Save_Picture;
-        	this.saveAsImageToolStripMenuItem.Name = "saveAsImageToolStripMenuItem";
-        	this.saveAsImageToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.S)));
-        	this.saveAsImageToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-        	this.saveAsImageToolStripMenuItem.Text = "&Save As Image...";
-        	this.saveAsImageToolStripMenuItem.Click += new System.EventHandler(this.ButtonSave_Click);
-        	// 
-        	// toolStripMenuItem1
-        	// 
-        	this.toolStripMenuItem1.Name = "toolStripMenuItem1";
-        	this.toolStripMenuItem1.Size = new System.Drawing.Size(196, 6);
-        	// 
-        	// exitToolStripMenuItem
-        	// 
-        	this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-        	this.exitToolStripMenuItem.Size = new System.Drawing.Size(199, 22);
-        	this.exitToolStripMenuItem.Text = "E&xit";
-        	this.exitToolStripMenuItem.Click += new System.EventHandler(this.ButtonExit_Click);
-        	// 
-        	// editToolStripMenuItem
-        	// 
-        	this.editToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-			this.pasteToolStripMenuItem});
-        	this.editToolStripMenuItem.Name = "editToolStripMenuItem";
-        	this.editToolStripMenuItem.Size = new System.Drawing.Size(39, 20);
-        	this.editToolStripMenuItem.Text = "&Edit";
-        	// 
-        	// pasteToolStripMenuItem
-        	// 
-        	this.pasteToolStripMenuItem.Name = "pasteToolStripMenuItem";
-        	this.pasteToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Shift) 
-			| System.Windows.Forms.Keys.V)));
-        	this.pasteToolStripMenuItem.Size = new System.Drawing.Size(175, 22);
-        	this.pasteToolStripMenuItem.Text = "&Paste";
-        	this.pasteToolStripMenuItem.Click += new System.EventHandler(this.ButtonPaste_Click);
-        	// 
-        	// helpToolStripMenuItem
-        	// 
-        	this.helpToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-			this.aboutToolStripMenuItem});
-        	this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
-        	this.helpToolStripMenuItem.Size = new System.Drawing.Size(44, 20);
-        	this.helpToolStripMenuItem.Text = "&Help";
-        	// 
-        	// aboutToolStripMenuItem
-        	// 
-        	this.aboutToolStripMenuItem.Image = global::ArdeshirV.Applications.QrCodeGeneratorWithLogo.Properties.Resources.About;
-        	this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
-        	this.aboutToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F1;
-        	this.aboutToolStripMenuItem.Size = new System.Drawing.Size(135, 22);
-        	this.aboutToolStripMenuItem.Text = "&About...";
-        	this.aboutToolStripMenuItem.Click += new System.EventHandler(this.ButtonAbout_Click);
-        	// 
         	// FormMain
         	// 
         	this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -463,14 +352,10 @@
         	this.Controls.Add(this.ButtonAbout);
         	this.Controls.Add(this.ButtonExit);
         	this.Controls.Add(this.ButtonSave);
-        	this.Controls.Add(this.ButtonPaste);
         	this.Controls.Add(this.TextBoxInput);
-        	this.Controls.Add(this.LabelText);
         	this.Controls.Add(this.GroupBoxLogo);
         	this.Controls.Add(this.PictureBoxOutput);
-        	this.Controls.Add(this.menuStrip);
         	this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-        	this.MainMenuStrip = this.menuStrip;
         	this.MaximizeBox = false;
         	this.MinimumSize = new System.Drawing.Size(320, 420);
         	this.Name = "FormMain";
@@ -484,8 +369,6 @@
         	this.GroupBoxBackground.ResumeLayout(false);
         	this.GroupBoxBackground.PerformLayout();
         	((System.ComponentModel.ISupportInitialize)(this.TrackBarShadowBlend)).EndInit();
-        	this.menuStrip.ResumeLayout(false);
-        	this.menuStrip.PerformLayout();
         	this.ResumeLayout(false);
         	this.PerformLayout();
 
@@ -500,9 +383,7 @@
         private System.Windows.Forms.RadioButton RadioButtonDefault;
         private System.Windows.Forms.Button ButtonBrowseLogo;
         private System.Windows.Forms.TextBox TextBoxCustom;
-        private System.Windows.Forms.Label LabelText;
         private System.Windows.Forms.TextBox TextBoxInput;
-        private System.Windows.Forms.Button ButtonPaste;
         private System.Windows.Forms.Button ButtonSave;
         private System.Windows.Forms.Button ButtonExit;
         private System.Windows.Forms.Button ButtonAbout;
@@ -518,15 +399,6 @@
         private System.Windows.Forms.Label LabelShadowBlendPercent;
         private System.Windows.Forms.Label LabelShadowBlend;
         private System.Windows.Forms.Label LabelDevilIsHere;
-        private System.Windows.Forms.MenuStrip menuStrip;
-        private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem saveAsImageToolStripMenuItem;
-        private System.Windows.Forms.ToolStripSeparator toolStripMenuItem1;
-        private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem helpToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem aboutToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem editToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem pasteToolStripMenuItem;
     }
 }
 

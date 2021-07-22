@@ -420,7 +420,7 @@ Download Reference: https://freeicons.io/user-interface-icons-7/qr-code-icon-372
         //-------------------------------------------------------------------------------
         private void EnableSaveAbility(bool boolIsEnable)
         {
-        	saveAsImageToolStripMenuItem.Enabled =
+        	//saveAsImageToolStripMenuItem.Enabled =
             ButtonSave.Enabled = /*ButtonSaveAsSVG.Enabled =*/ boolIsEnable;
         }
         //-------------------------------------------------------------------------------

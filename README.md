@@ -1,5 +1,5 @@
 # QR Code Generator with Logo
-Provides a QR code generator that let you embed a predefined or custom logo in your QR code and then save it as an image with high quality with different shape of fading shadows. I hope you [download](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo/releases) it, use it and of course enjoy it!
+Provides a QR code generator that let you embed a predefined or custom logo in your QR code and then save it as an high quality image with different shape of fading shadows. I hope you [download](https://github.com/ArdeshirV/QrCodeGeneratorWithLogo/releases) it, use it and of course enjoy it! It works on windows without any problem and also it works with mono on Linux.
 
 ![QR Code Generator with Logo photo](https://raw.githubusercontent.com/ArdeshirV/QrCodeGeneratorWithLogo/main/QrCodeGeneratorWithLogo/img/OuP.jpg)
 

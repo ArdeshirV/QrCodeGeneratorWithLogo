@@ -4,4 +4,3 @@ Provides a QR code generator that enables you to embed a predefined or custom lo
 ![QR Code Generator with Logo photo](https://raw.githubusercontent.com/ArdeshirV/QrCodeGeneratorWithLogo/main/QrCodeGeneratorWithLogo/img/OuP.jpg)
 
 #### Copyright&copy; 2021 [ArdeshirV](mailto:ArdeshirV@protonmail.com), Licensed under GPL<sup>v3+</sup>
- 
